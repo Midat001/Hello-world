@@ -1,2 +1,2 @@
 # Hello-world
-this is how we do it
+this is a read me file where you understand about the file
